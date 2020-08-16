@@ -1,6 +1,6 @@
 # Ship-Crew-Size-Recommender
 
-Based on the article written on Medium - (Non-Trivial Data Science Projects)[https://medium.com/datadriveninvestor/non-trivial-data-science-projects-693edfe146d]. This is the triial example.
+Based on the article written on Medium - (Non-Trivial Data Science Projects)
 
 The aim is to build a regressor that recommends the “crew” size for potential ship buyers.
 
