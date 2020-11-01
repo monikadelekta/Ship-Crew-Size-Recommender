@@ -10,9 +10,8 @@ The goals are as follows:
 2. Calculate basic statistics of the data (count, mean, std, etc) and examine data and state your observations.
 3. Select columns that will be probably important to predict “crew” size.
 4. If you removed columns explain why you removed those.
-5. Use one-hot encoding for categorical features.
-6. Create training and testing sets (use 60% of the data for the training and reminder for testing).
-7. Build a machine learning model to predict the ‘crew’ size.
-8. Calculate the Pearson correlation coefficient for the training set and testing data sets.
+5. Create training and testing sets (use 60% of the data for the training and reminder for testing).
+6. Build a machine learning model to predict the ‘crew’ size.
+7. Use hyper-parameter tuning to improve model accuracy.
 
 --END--
